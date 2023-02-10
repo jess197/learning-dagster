@@ -1,12 +1,12 @@
 ![Dagster Logo](/img/dagster-logo.png "Dagster logo")
 
 
-# Studying about Dagster 
+### Studying about Dagster 
   - Dagster takes care of the whole end to end pipeline 
   - It's for Data Engineers who want to guarantee quality data over the pipeline. 
   - And many more...
   - Why Dagster? This article is good: [Who, What, and Why DAGSTER!](https://ajithshetty28.medium.com/who-what-and-why-dagster-c97f8c2335b1)
-# Installing Dagster
+### Installing Dagster
 Take this [Install Guide](https://docs.dagster.io/getting-started/install)
 Tip if helps you:
  I had a problem trying to run dagster in Macbook M1 that was :
@@ -17,10 +17,10 @@ Tip if helps you:
 ##### Resolution: 
    Put it in your 'User settings.json' in Vscode ``` "terminal.integrated.env.osx": {   "MallocNanoZone": "1",} ```
 
-# Running Dagster 
+### Running Dagster 
 - Just run ``` dagit -f hello-dagster.py ```
 
-## What is better for you Airflow or Dagster?
+#### What is better for you Airflow or Dagster?
 Dagster takes a radically different approach to data orchestration than other tools
 [Dagster vs Airflow](https://dagster.io/blog/dagster-airflow)
 
@@ -29,7 +29,7 @@ This Study is based on getting started from Dagster:
 
 - It's a simple test getting the TOP 10 storys from hacker news and running into dagster. 
 
-## Doubts or Suggestions? 
+#### Doubts or Suggestions? 
 You can reach me via my social medias that are on my profile page or enter in Dagster community :) 
 [Jess's Profile](https://github.com/jess197/jess197)
 [Dagster Community](https://dagster.io/community)
